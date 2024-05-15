@@ -8,9 +8,9 @@ replacing some digits with others. It's known that the length of the number didn
 You have to find the minimum number of digits in which these two numbers can differ.
 
 Input
-The first line contains integer k (1 ≤ k ≤ 109).
+The first line contains integer k (1 ≤ k ≤ 10^9).
 
-The second line contains integer n (1 ≤ n < 10100000).
+The second line contains integer n (1 ≤ n < 10^100000).
 
 There are no leading zeros in n. It's guaranteed that this situation is possible.
 
